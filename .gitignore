@@ -1,0 +1,5 @@
+/backend/target/
+/backend/.mvn/
+/backend/*.log
+/.vscode/
+/node_modules/
